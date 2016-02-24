@@ -1,0 +1,33 @@
+Joué le 22/02/16 à 5
+
+Ce que l'on fait :
+
+On se déplace globalement sur la carte en fonction des points d'intérêt, à savoir récupérer des ressources puis les dépenser.
+Les choix que l'on fait dans nos actions sont souvent liés au fait de perdre le moins de temps possible à se déplacer loin.
+Les moments de gameplay les plus intéressants sont ceux où l'on devine les actions des autres pour essayer d'obtenir une recrue particulière, ou pour éviter de perdre énormément de temps à aller tuer un monstre dont quelqu'un peut se charger avant nous.
+
+Les autres choix que l'on a à faire sont les récompenses, mais là encore, beaucoup de monstres n'offrent pas un vrai choix car une des trois récompenses est vraiment nulle.
+On peut également faire des choix sur les personnes que l'on veut bloquer dans certains domaines, dans le but d'être devant eux au classement final dans une catégorie.
+
+Les mécaniques :
+
+ - Le classement final se fait par élimination sur 3 catégories :
+ 	Cela demande donc aux joueurs de ne pas tout miser sur une catégorie, et même de savoir qui il faut battre dans chaque catégorie. Par exemple, on a tout intérêt à faire en sorte que le joueur qui nous dépasse dans la troisième catégorie soit éliminé dans la deuxième ou la première catégorie. Par contre, cela provoque un manque d'intérêt possible dans la partie pour les derniers tours lorsque un joueur ne peut plus passer la première catégorie.
+
+ - Les actions se programment :
+ 	Cela permet déjà un gain de temps car tout le monde réflechit en simultané (comme en draft). C'est également un gros point positif dans le sens où ça permet des micro-optimisations / brains pour réussir à bloquer quelqu'un ou à essayer d'obtenir un archimage en attendant le bon moment. Cela nécessite par contre une grande conscience des armées et stratégies des adversaires pour vraiment deviner ce qu'ils cherchent à faire, ce que je n'ai pas réussi à faire dans la première partie.
+
+ - Les monstres réapparaissent toujours dans la même ville :
+ 	Le problème, c'est que du coup dans chaque ville on aura toujours droits aux mêmes récompenses. Cela peut permettre de connaitre bien le jeu et de savoir où aller en fonction des armées que l'on a, à voir.
+
+ - La course aux lyres:
+ 	C'est une mécanique bien connue de majorité dans des régions. C'est assez difficile à gérer car on peut se faire avoir simplement par un mauvais concours de circonstances : soit on est tranquille dans une région, soit des monstres qui donnent des lyres arrivent à côté. J'ai perdu dans cette catégorie, mais c'était difficile de prévoir ce qui allait se passer ou de déterminer que j'ai fait une erreur flagrante. Ça se base aussi beaucoup sur l'intimidation.
+	Mais on peut aussi tenter de deviner qui a besoin d'augmenter son score dans cette catégorie, et donc qui a le plus de chances de continuer à se battre pour une région. Ça va donc dans le sens TRÈS INTÉRESSANT où connaître la stratégie des autres nous fait prendre des décisions très rentables pour nous.
+
+
+Les choses que je retiens:
+
+	Par plusieurs de ses mécaniques (programmation, concurrence bardique, classement final par catégorie), le jeu donne un gros avantage à ceux qui devinent les futures actions de leurs adversaires lorsque l'on a des choix cruciaux à faire. C'est quelque chose de très intéressant et gratifiant dans un jeu : faire un pari sur ce que va faire un autre joueur et réaliser qu'on avait bien deviné, surtout quand ça rapporte.
+	Par contre, le problème est qu'on n'a pas très souvent des choix cruciaux à faire. La plupart du temps, on a juste des choix «optimaux» par rapport à notre situation, qui ont des alternatives trop faibles pour être choisies, même en prenant en compte les stratégies adverses. On a alors la sensation de ne pas trop avoir eu d'opportunités pour éviter d'être dernier dans une catégorie par exemple.
+
+
