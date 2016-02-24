@@ -1,0 +1,27 @@
+Joué 2 parties à 7 le 22/02/2016
+
+Ce que l'on fait :
+
+On choisit arbitrairement un rôle dans la boîte (aussi en fonction de ce qui s'est passé précédemment). Les choix que l'on fait dans la phase de boîte à cigare sont principalement dictés par notre envie de renouveler le jeu.
+
+Les moments de gameplay les plus intéressants sont ceux où l'on trouve une situation plausible lorsqu'on est voleur, où un allié qui a intérêt à nous couvrir : donc à chaque fois un bluff qui fonctionne de part une explication mathématique possible.
+
+Les mécaniques :
+
+	- Chacun CHOISIT son rôle parmi les disponibles :
+		Ça permet d'un côté d'éviter les soirées où on se fait distribuer le même rôle tout le temps. Ça permet aussi d'essayer de deviner quel rôle quelqu'un aurait eu intéret à prendre. Malheureusement, on ne peut pas trop se baser là dessus car les gens ne jouent pas la gagne
+		En effet, il y a des choix extrêmement plus forts que d'autres : par exemple prendre un chauffeur et enlever l'agent du FBI donne une victoire beaucoup plus facile au patron et ses alliés. Le problème est donc qu'à défaut de hasard, on peut faire la même partie à chaque fois... Il n'y a pas vraiment de moyen de renouveler les parties sauf justemement en se mettant en difficulté et en prenant un rôle très difficile à jouer dans une situation.
+
+	- Le jeu est très rapide :
+		Pour un jeu à identité secrète, ça permet de ne pas subir une longue partie une fois que notre rôle a été découvert (comme dans résistance) où une fois que l'on est mort (comme les loup-garous)
+
+	- L'ambiance dépend des joueurs :
+		Le matériel et le contexte incite pleinement les joueurs à jouer le jeu du parrain et de ses sbires. Sans ça, le jeu serait beaucoup moins fun.
+
+
+Les choses que je retiens :
+	Pour faire en sorte que les joueurs jouent dans l'ambiance que l'on avait prévue, il est important que le matériel soit bien pensé (ici une boite de cigares) et que chaque étape dans le jeu corresponde à quelque chose de l'histoire (Le parrain va faire un tour en laissant sa boite de cigare sans surveillance | Le parrain trouve sa boîte dévalisée et interroge son équipe)
+	Il faut un générateur de parties (pour les rendre toutes différentes) autre que les choix du premier joueur, mais plutôt aléatoire. C'est très génant de se dire que le joueur peut notamment décider de la difficulté de sa partie : il est préférable qu'il fasse les meilleurs choix possibles en permanence en fonction d'une situation initiale qui lui est imposée, ce qui l'amène à trouver une stratégie différente à chaque partie (comme à 7Wonders en fonction de sa merveille et de ses leaders).
+
+
+
