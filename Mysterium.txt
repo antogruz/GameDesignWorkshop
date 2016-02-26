@@ -1,1 +1,19 @@
 Joué à 7 le 22/02/2016
+
+Ce que l'on fait :
+
+Il y a deux rôles. J'ai joué un médium. Tout est lié à de l'observation coopérative.
+On essaie de deviner en fonction des visions que l'on reçoit du fantôme quel personnage, quel lieu et quel objet nous est lié.
+Les moments de gameplay les plus intéressants sont ceux où on pense au même détail, à la même interprétation où qu'on a le même ressenti que le fantôme. On a alors la même sensation que lorsqu'on comprend parfaitement une énigme. Cela est permis par la mécanique de visions, qui ne peut pas être précise car les images sont vagues, et peuvent donner une impression générale. Mais la plupart du temps ce sont des liens précis, des objets, détails, etc qui donnent le bon choix au joueur.
+
+Les mécaniques :
+
+	- On résout des énigmes en bénéficiant d'indices d'un autre joueur. D'un côté ça génère des énigmes, et quand deux joueurs sont connectés c'est très agréable; de l'autre ça peut être frustrant de penser que le fantôme fait n'importe quoi.
+
+	- Ce qu'il se passe pendant la première phase nous donne différents bonus pour la phase finale. C'est intéressant de se dire que réussir à n'importe quel tour nous qualifie pour l'énigme finale, mais qu'on peut également avoir plus d'indices si on s'en sort bien dans la première phase.
+
+
+Les choses que je retiens :
+
+	Le gameplay n'est pas très abouti car la mécanique d'énigme par les visions est suffisante, il n'est pas nécessaire de l'envelopper dans un autre jeu : parfois, si on trouve une mécanique intéressante il ne faut pas créer un jeu trop sophistiqué autour de cette mécanique. Par contre, par rapport à Dixit on ajoute surtout une ambiance et un environnement : c'est ça qui est important même avec une mécanique forte.
+	Le jeu en deux phases distinctes, qui permettent juste de se qualifier à la phase suivante mais où on repart «presque» à 0 à chaque phase est intéressant. On peut imaginer que réussir des objectifs de la phase A donne un bonus de départ spécifique à la phase B.
