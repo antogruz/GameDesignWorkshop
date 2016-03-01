@@ -1,1 +1,30 @@
 Joué 2 parties à 7 le 23/02/2016
+
+Ce que l'on fait :
+
+On construit conjointement une ville avec chacun de nos voisins. On drafte des tuiles, on les pose dans nos villes et à la fin on compte les points de chaque ville selon les différents bâtiments qu'elle contient. Chaque joueur marque les points de sa plus mauvaise ville.
+
+Les moments de gameplay les plus intéressants et techniques sont ceux où l'on force un voisin à favoriser notre ville, par exemple en lui laissant une tuile spécifique très forte plutôt que de la jouer nous même.
+
+Les mécaniques :
+
+	- On joue en pseudo-équipes :
+		Ca permet de créer des situations où l'on décide ensemble, s'entraide, tout en ayant conscience que notre voisin pourra favoriser son autre ville au détriment de la nôtre. On ne peut donc pas juste lui laisser certaines tuiles pour qu'il les batisse, car il voudra peut-être le faire dans son autre ville. Il faut donc essayer de prévoir les intérêts de nos voisins pour savoir quel genre de tuiles on peut leur passer.
+
+	- On marque un score correspondant à notre moins bonne ville :
+		Ça permet de créer des situations où l'on ne va pas avoir intérêt à jouer aveuglément le gros combo dans une de nos villes si elle a déjà de l'avance et que ça nous empêche de jouer un bon coup dans notre autre ville. Par conséquent, nos voisins ne vont pas forcément non plus jouer les super tuiles qu'on leur laisse même si on a l'impression que c'est leur meilleur coup.
+
+	- Le jeu est simple et rapide :
+		Aucune tuile n'a un effet immédiat, tout le monde joue en parallèle, la partie dure 30 minutes même à 8. Du coup, on a facilement envie d'en recommencer une pour essayer une stratégie avec d'autres bâtiments.
+
+	- Le jeu a une ville est facilement soluble:
+		Au bout d'un moment, on se rend compte qu'il n'y a pas beaucoup d'adaptation ou de stratégies différentes pour faire une ville (contrairement à 7Wonders par exemple). Cela peut limiter la durée de vie du jeu et l'impression de choix au cours du jeu (une fois que je joue les bureaux, je joue tous les bureaux).
+
+	- Rien ne guide notre stratégie générale à part notre première main:
+		On a moins envie de rejouer que si on pouvait changer de personnage, de peuple, etc.
+
+Les choses que je retiens:
+	Le système de draft est vraiment incroyable pour rendre les jeux rapides. De manière générale, si un jeu veut être jouable nombreux ou avec beaucoup de contenu, il faut que les joueurs prennent leurs décisions simultanément.
+	Les pseudo-équipes peuvent être adaptées dans de nombreux jeux (par exemple chaque joueur appartient à deux clans) mais ne donnent pas forcément plus d'intérêt à un jeu. Dans ce cas précis, s'il n'y avait pas ce système le jeu serait beaucoup trop simple.
+	Particulièrement si le contenu du jeu est trop simple (dans notre cas les différentes tuiles), une amélioration très grande de la durée de vie se ferait en générant des parties différentes (personnages, peuples, merveilles, leaders).
+	Marquer le score de notre moins bonne catégorie force à jouer équilibré, mais par conséquent peut restreindre l'éventail de stratégies possibles. À voir au cas par cas pour des jeux. Peut être même que le jeu serait mieux si on marquait la somme de nos deux villes. Au moins cela évite des situations où on perd parce que notre voisin a négligé volontairement notre ville.
