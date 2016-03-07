@@ -1,0 +1,37 @@
+Une campagne en cours.
+
+Ce que l'on fait :
+
+On joue une série de missions espacées dans le temps.
+
+Moments de gameplay :
+
+Les mécaniques de progression :
+
+	- Nos personnages évoluent au fil du temps :
+	On est content quand une capacité que l'on a choisie nous sert et augmente nos possibilités ou nous donne un style de jeu plus défini. Par contre, il y a trop peu de choix viables, on ne choisit pas vraiment vers quoi on s'oriente une fois notre personnage défini.
+	On récupère aussi de l'équipement, mais encore une fois le plus souvent on prend les armes qui vont déjà dans le sens de nos personnages vu le manque de choix.
+
+	- Les personnages choisissent les missions annexes :
+	Cela permet de donner un peu de sens à l'histoire.
+
+	- Les missions réussies donnent des bonus :
+	D'un côté ça motive les joueurs, de l'autre ça crée un effet boule de neige. Il vaudrait mieux donner des choix supplémentaires que des bonus bruts peut-être.
+
+Les mécaniques de missions
+
+	- C'est un jeu de coopération contre un joueur :
+	C'est donc un jeu de coopération mais dans lequel les ennemis font preuve d'intelligence et sont moins prévisibles. Mais cela crée une position de 1 contre 4 pour toute la campagne, ça peut être long psychologiquement.
+	De plus, un unique joueur pourrait très bien jouer 4 personnages contre les troupes de l'ennemi.
+
+	- Les personnages sont sur un quadrillage, se déplacent tour par tour:
+	Les hexagones peuvent être malins pour éviter le gros problème de la diagonale qui posent de nombreuses questions.
+	Les règles sont très claires, rigoureuses et détaillées sur les règles de vision et de déplacement, mais pas «réalistes» pour les joueurs, qui ont tendance à en choisir d'autres et potentiellement à se priver d'élements de gameplay.
+
+
+Les choses que je retiens:
+	Dans un jeu avec des déplacements sur un plateau, il ne faut pas choisir des cases carrées à cause des diagonales.
+	Les jeux à un contre tous ne devraient pas être joués en campagne.
+	Dans les jeux qui se jouent en campagne «non-coop», l'équilibrage est ultra important. Au moins, si on a pris une branlée ou fait des mauvais choix et qu'on s'en est rendu compte dans un jeu classique on peut juste recommencer une partie.
+	Il y a beaucoup de choix mais on ne fera qu'une campagne. C'est trop long : on ne pourra pas essayer un autre personnage, d'autres pouvoirs...
+
