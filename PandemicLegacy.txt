@@ -1,0 +1,27 @@
+Joué une partie le 28/02/2016
+
+Le jeu se base sur Pandémie et y ajoute une dimension. Le jeu consiste maintenant en une suite de missions scénarisées, qui sont liées les unes aux autres dans une intrigue globale.
+
+	- Le gameplay de chaque partie est renouvelé :
+		C'est un point super qui fait qu'on a toujours envie de refaire une partie pour découvrir la suite. Même une fois la suite découverte, on a envie de jouer la partie car elle apporte de nouveaux éléments de gameplay qu'il va falloir intégrer et donc changer notre ancienne stratégie.
+
+	- Chaque début de partie est généré aléatoirement:
+		Comme on peut réagir à cette génération (le choix des personnages, du point de départ se font en connaissant cette disposition), ça permet de tenter des stratégies différentes à chaque partie. Et l'aléatoire est une bonne chose dans ce cas : il n'y a pas de frustration puisqu'on peut y réagir. Et ça permet de faire en sorte qu'on ne joue pas toujours les mêmes personnages, chacun aura un impact différent sur la partie en fonction de ce dont on peut avoir besoin.
+
+	- C'est un jeu de coop sans information cachée :
+		Un seul joueur pourrait jouer et c'est dommage.
+
+	- Le monde évolue à la fin de chaque partie :
+		Les problèmes que l'on a dans une partie auront des conséquences pour la suite. Les personnages évoluent, obtiennent de nouvelles capacités. Les maladies peuvent être éradiquées plus facilement. Les batîments que l'on a construits peuvent rester. Les villes en ruine le restent. On est donc content au début d'une partie de pouvoir tester les nouveautés que l'on a choisies et de sentir leur impact.
+
+	- À chaque tour, le jeu détruit un peu de ce qu'on vient de faire :
+		Le gameplay consiste donc à réussir à contenir les problèmes (être rentable, que nos actions valent au moins ce que l'on perd à la fin du tour) tout en avançant les objectifs. Comme dans agricola où il faut se nourrir mais aussi faire d'autres choses. Ça peut donc être frustrant de ne pas réussir à être suffisemment efficace. D'un autre côté, il faut trouver les bons moments pour avancer les objectifs plutôt que de juste défendre.
+		En bref, on choisit souvent entre court terme et long terme. Le risque est de ne jamais pouvoir choisir long terme si la difficulté est mal dosée.
+
+
+Les choses que je retiens:
+	On peut prendre un jeu très moyen (dont le manque d'intérêt réside dans le fait que les parties se ressemblent trop) et en faire une expérience de jeu unique simplement en ajoutant une variante à chaque partie d'une part, mais aussi en donnant une continuité à l'aventure d'autre part.
+	Les jeux en coop pourraient gagner énormément à ajouter quelque chose qui empêche à un joueur de jouer seul. Ça pourrait être des informations cachées (Je suis le seul à savoir que la maladie se propage dans une ville), ou des actions simultanées contraintes par le temps (space alert <3)
+	C'est intéressant de générer des parties aléatoires différentes, mais surtout quand l'équipe peut réagir à cet aléatoire pour développer une stratégie unique (qui sera différente des autres parties en tout cas). Pour ça il faut donc forcément de nombreuses combinaisons de réactions possibles (par exemple plusieurs personnages).
+	Je pense que beaucoup de jeux pourraient être transformés de cette manière. C'est probablement difficile de faire aussi bien que ça pour un jeu qui ne serait pas en coopération. Il faudrait tenter une sorte de Agricola coop où la ferme évolue chaque décennie.
+	Une histoire dans un jeu c'est fun. Même si on ne peut plus y jouer après, on en a pour notre argent.
