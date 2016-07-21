@@ -1,0 +1,7 @@
+Dans 7Adventurers, les joueurs sont représentés par des personnages d'héroic-fantasy lors d'un tournoi.
+Ils vont affronter différents ennemis en utilisant des armes et des sorts, personnaliser leur héros en le faisant progresser dans différents domaines, s'entourer des meilleurs alliés, et impressionner le jury en réalisant diverses prouesses techniques et magiques.
+
+A chaque tour, chaque joueur choisit parmi une main de cartes celle qu'il veut jouer (arme, allié, sort, amélioration...).
+
+Tous les 6 tours, une phase du tournoi se termine, et les joueurs ont de nouveaux ennemis à combattre.
+À la fin de la troisième phase, le jury délibère et le joueur ayant obtenu le plus de points est déclaré vainqueur.

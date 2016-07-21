@@ -1,0 +1,46 @@
+I) Mise en place.
+
+À chaque joueur on attribue un personnage aléatoire. Il reçoit la plaque correspondante et la place devant lui.
+Les cartes correspondant au nombre de joueurs (pour chaque phase) sont mélangées pour former 3 tas.
+Les cartes "ennemis" sont séparées par force (I, II, III) et mélangées.
+Chaque joueur commence avec 6 pièces et 6 mana.
+Le reste des jetons est placé au centre de la table.
+
+II) Choix des ennemis
+
+Chaque joueur reçoit 4 ennemis, en choisit 1, et donne les restant à son voisin de gauche. On répète cette opération jusqu'à ce que chaque joueur ait 4 ennemis. (Le dernier ennemi n'est pas choisi mais est directement donné par le joueur à notre droite).
+Puis, le joueur choisit de garder entre 2 et 4 ennemis de sa main, qu'il place devant lui. Les autres sont défaussés.
+
+(Lors du choix des ennemis de la phase 2, les ennemis sont passés à droite et non à gauche)
+
+Ennemis : 
+
+Chaque ennemi à 4 caractéristiques :
+
+	* Force : ce sont les dégats qu'il inflige en cas de confrontation directe ou à la fin d'une phase.
+	* Points de vie : Les dégats qu'il faut lui infliger pour l'éliminer
+	* Une récompense : La récompense est gagnée au moment où cet ennemi est éliminé
+	* Un passif (parfois) : Des règles spécifiques à cet ennemi.
+
+III) Personnages
+
+Chaque personnage commence avec 10 points de vie et :
+
+	* Un bonus passif (représenté par un symbole en haut à gauche)
+	* Des pouvoirs qu'il peut utiliser en cours de partie au lieu de jouer une carte
+
+On comptabilise les points de vie avec des marqueurs. Quand un personnage n'a plus aucun point de vie, il devient blessé.
+Un personnage blessé ne peut plus subir volontairement de dégats lors de son tour (ce qui peut l'empêcher d'attaquer des ennemis au corps à corps), et prend un marqueur de blessure chaque fois qu'il devrait perdre un point de vie. Chaque marqueur de blessure coûte un point en fin de partie.
+Certaines cartes permettent au joueur d'augmenter son maximum de points de vie, et d'autres de regagner des points de vie perdus. On ne peut jamais avoir plus de jetons PV que notre nombre maximal de PV.
+
+IV) Phases
+
+Au début d'une phase, on distribue 7 cartes de la phase correspondante à chaque joueur, et on entame un draft de 6 tours.
+A chaque tour, chaque joueur exécute une à une les actions suivantes en même temps que les autres joueurs :
+	1) Choisir une carte
+	2) Effectuer une action avec parmis :
+		- La jouer en payant son coût et en appliquant ses effets
+		- La vendre pour gagner des pièces
+		- L'utiliser pour activer une capacité de son héros
+	3) Donner les cartes restantes à son voisin (le sens est écrit au dos des cartes).
+	Au 6ème tour, la dernière carte restante est défaussée au lieu d'être donnée au voisin.
