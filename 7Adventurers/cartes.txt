@@ -1,0 +1,67 @@
+Acte I)
+
+Ennemis classiques :
+
+2-3 | 3p
+3-2 | 3p
+2-4 | 6m
+4-2 | 6g
+
+
+Armes :
+
+Marteau <3>
+Double dague <2> <2>
+Épée courte <2> - Épée longue <2> - Épée à deux mains <2>
+?cimeterre <2> -                -
+
+Couteau de lancer <1> (1)
+
+Shurikens *(1)
+Arc de méditation (2) 1m 
+Javelot(2+For)
+
+
+Terre :
+3m | Terre - Peau de pierre - \_/
+?m - Enchevêtrement -one (3) others (Terre) 
+2m - Régénération - +4(+2*Terre) PV 
+?m - Compagnon animal - Invoque une 2-(2+terre) qui protègera le héros à la fin de l'âge
+
+Eau :
+3m | Eau - Source de mana - Réduit de 1 le coût des sorts.
+2m - Épée de glace - <+4+eau>
+_  - Méditation - Gagne du mana jusqu'à en avoir (6 + 2*Eau)
+2m - Bloc de glace - Les <eau> prochaines fois que des dégats devraient être appliqués, les transforme (avant armure) en mana.
+(6-2eau)m - Sagesse - Copie la prochaine carte jouée
+(6-2eau)m - Apprentissage - Améliore le héros au choix
+
+Feu :
+(4-2Feu)m - Fureur Brûlante - Feu
+2m - Flamme - (4+Feu)
+2m - Étincelles - (1 + Feu) et (1 + Feu) à n'importe quel moment
+?m - Explosion - *(1 + Feu)
+_  Necromancie - 1m / ennemis vaincu < v >
+_ - Ping - (Feu) | 1mr> (1)
+
+
+
+Alliés :
+
+_ Vieux Sage 0-1 : Pour 3 pièces, peut augmenter de 1 une maitrise pour le tour en cours.
+2g Protecteur 0-4 
+Apprenti : 3 pièces -> 2 mana
+_ Frondeur 0-1: 2 pièces -> 1 dégat
+_Soigneur 1-1: 1 pièce -> 1 PV
+2g Combattant 2-2
+
+Titres :
+2Gobelins vaincus | Écraseur de gobelins (5)
+2Bêtes vaincues | 
+
+
+Objets magiques / passifs
+
+Soif De sang : Chaque fois qu'un ennemi est vaincu, gagne 1pv
+Arc long : +1 dégats sur toutes les attaques à distance
+Chasseur de têtes : 2g par ennemi vaincu

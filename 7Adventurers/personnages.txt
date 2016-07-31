@@ -1,0 +1,7 @@
+Les personnages disposent en général :
+
+-D'un passif.
+-D'une arme :
+-De trois sorts (un de chaque type).
+
+Règle possible :  On peut utiliser plusieurs fois un même sort, mais cela demande de payer le coût * la quantième fois qu'on lance le sort.

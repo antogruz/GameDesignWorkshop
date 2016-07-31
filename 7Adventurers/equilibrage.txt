@@ -1,0 +1,5 @@
+Conversions en termes d'équilibrages :
+
+Un ennemi n/n rapport 2n points. Donc 1 d'attaque + 1 Pv -> 1pt
+3 pièces font un point à la fin. Au niveau 1, 5 pièces valent entre 2 et 3 points.
+1 pièce = 1 mana.

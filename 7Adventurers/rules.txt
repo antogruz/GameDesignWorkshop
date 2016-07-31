@@ -9,7 +9,7 @@ Le reste des jetons est placé au centre de la table.
 II) Choix des ennemis
 
 Chaque joueur reçoit 4 ennemis, en choisit 1, et donne les restant à son voisin de gauche. On répète cette opération jusqu'à ce que chaque joueur ait 4 ennemis. (Le dernier ennemi n'est pas choisi mais est directement donné par le joueur à notre droite).
-Puis, le joueur choisit de garder entre 2 et 4 ennemis de sa main, qu'il place devant lui. Les autres sont défaussés.
+Puis, le joueur choisit de garder entre 2 et 3 ennemis de sa main, qu'il place devant lui, ainsi qu'un ennemi qu'il donne à son voisin (dans le sens du draft). Les autres sont défaussés.
 
 (Lors du choix des ennemis de la phase 2, les ennemis sont passés à droite et non à gauche)
 
@@ -44,3 +44,30 @@ A chaque tour, chaque joueur exécute une à une les actions suivantes en même 
 		- L'utiliser pour activer une capacité de son héros
 	3) Donner les cartes restantes à son voisin (le sens est écrit au dos des cartes).
 	Au 6ème tour, la dernière carte restante est défaussée au lieu d'être donnée au voisin.
+
+Le jeu de la carte :
+On ne peut pas jouer deux fois une carte qui a le même nom.
+
+Au moment où une carte est jouée, on applique les effet immédiats, parmi tous ces symboles :
+
+*Attaque au corps à corps < +n > : Le joueur choisis un ennemi et l'attaque. Il lui inflige des dégats détérminés par son Attaque + n. L'ennemi lui inflige ses dégats - l'armure du joueur.
+
+*Attaque à distance n : Le joueur choisis un ennemi et l'attaque. Il lui inflige n dégats et n'en subit aucun.
+
+*Gain de pièces/ Gain de mana : Le joueur gagne des jetons correspondant à certaines conditions sur la carte.
+
+À partir du moment où la carte est jouée, les symboles suivants prennent effet:
+
+Force|Armure|Terre|Eau|Feu : Augmente le niveau du personnage dans cette catégorie.
+Terre/Eau/Feu : N'augmente pas le niveau du personnage. Permet d'ajouter un de ces trois éléments pour payer le coût d'une carte.
+PointsDeVictoire <n> : Donne n points de victoire au joueur à la fin de la partie.
+PointsDeVictoire relatifs à des conditions : Le calcul des points gagnés est fait à la fin de la partie.
+
+Catégorie d'armes : 
+
+Certaines armes sont liées entre elles de par leur catégorie, avec un maximum d'une arme par acte de chaque catégorie.
+Jouer une arme d'une catégorie permet de bénéficier, dans l'ordre son choix, de toutes les armes déjà jouées de cette catégorie.
+
+De base, on peut à tout instant acheter une potion de mana (2pièces -> 1mana) ou de vie (2pièces -> 1vie).
+
+
