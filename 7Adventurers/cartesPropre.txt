@@ -28,12 +28,15 @@ Sur un ennemi avec 1 d'attaque, 1 dégat vaut 1 point.
 Acte I)
 
 ----------------
-##### Marteau <3> #####
+##### Marteau <4> #####
 Meilleur cas
 - Seule : 3 - 0,5 = 2,5
 - Force + 1 : 4,5 - 1 = 3.5
 - Defense + 1 : 3
-Élimine un ennemi
+Statistiques
+- Seule : 2.86
+- Force + 1 : 3.24
+- Defense + 1 : 3.08
 
 ##### Double Dague <2> <2> #####
 Meilleur cas
@@ -45,16 +48,32 @@ Meilleur cas
 - Defense + 1 : 
 	*Diablotin 2x : 4,5 - 1 = 3,5
 	*Orque & Bandit à qui il reste 2PV: (2/3) * (3 + 3,5) - 2/2 = 3,3
+Statistiques
+- Seule : 2,46
+- Force + 1 : 4,41
+- Defense + 1 : 3,46
 
 ##### Shurikens *(1) #####
 Meilleur cas
 - Touche les trois ennemis : 1 + 1,16 + 1,25 = 3,41
+Statistiques
+- 2 ennemis : 2.4
+- 3 ennemis : 3.6
+- 4 ennemis : 4.8
 
 ##### Arc Élfique (2) 1mana #####
 Meilleur cas
 - Orque : 2,3 + 0,5 = 2,8
+Statistique
+- Seul : 2.9
 
-##### Javelot (2 + Force) ####
-Meilleur cas
-- Seul : Orque 
+##### Javelot (2 + Force) #####
+Statistiques
+- Seul : 2.4
+- Force + 1 : 3.4
+
+##### 3m - Enchevêtrement (3) others(Terre) #####
+
+##### nm - Epee de glace <4 + eau> #####
+
 
