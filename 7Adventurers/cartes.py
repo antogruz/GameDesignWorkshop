@@ -38,15 +38,21 @@ class Javelot:
         return distanceValue(2 + hero.force, enn)
 
 class Enchevetrement:
-    def __init__(self, nombre, mana):
-        self.nombre = nombre
-        self.mana = mana
+    def __init__(self):
+        self.mana = 1
     def value(self, hero, enn):
-        return (self.nombre - 1) * distanceValue(hero.terre, enn) + distanceValue(3, enn) - 0.5*self.mana
+        return distanceValue(hero.terre, enn) + distanceValue(3, enn) - 0.5*self.mana
 
 class IceSword:
     def __init__(self, mana):
         self.mana = mana
     def value(self, hero, enn):
         return contactValue(4 + hero.force + hero.eau, hero.defense + hero.eau, enn) - 0.5 * self.mana
+
+class Flammes:
+    def __init__(self):
+        self.mana = 2
+        self.deg = 4
+    def value(self, hero, enn):
+        return distanceValue(self.deg + hero.feu, enn) - 0.5 * self.mana
 

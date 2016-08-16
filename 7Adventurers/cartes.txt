@@ -5,7 +5,7 @@ Pour coût des sorts en fonction des écoles de magie :
 Acte I : 1 sort de chaque type est lancé plus facilement (3mana de moins)
 Acte II: 1 sort de chaque type nécessite de connaître l'école de magie
 Acte III: 2 sorts de chaque type nécessitent de connaître l'école de magie
-				
+
 Valeurs d'un ennemi:
 valeur(Attaque, PV) = PV + (Attaque - 1)/4
 
@@ -31,7 +31,7 @@ Gemme de Feu
 
 *Armes de contact :
 
-Marteau <3>
+Marteau <4>
 Double dague <2> <2>
 Épée courte <2> - Épée longue <2> - Épée à deux mains <2>
 ?cimeterre <2> -                -

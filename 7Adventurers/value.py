@@ -33,7 +33,7 @@ def evaluate(hero, card):
 
 def main():
     heroes = [Hero(name="fighter",force=1), Hero(name="tank",defense=1), Hero(name="druide", terre=1), Hero(name="aquaman", eau=1), Hero(name="pyro", feu=1)]
-    cards = [cartes.Hammer(), cartes.Dagues(), cartes.Shurikens(3), cartes.ArcElfique(), cartes.Javelot(), cartes.Enchevetrement(nombre=3, mana=3), cartes.IceSword(mana=1)]
+    cards = [cartes.Hammer(), cartes.Dagues(), cartes.Shurikens(3), cartes.ArcElfique(), cartes.Javelot(), cartes.Enchevetrement(), cartes.IceSword(mana=1), cartes.Flammes()]
     for carte in cards:
         print "--- {} ---".format(carte.__class__.__name__)
         for hero in heroes:
