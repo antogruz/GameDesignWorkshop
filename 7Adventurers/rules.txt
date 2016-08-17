@@ -63,10 +63,9 @@ Terre/Eau/Feu : N'augmente pas le niveau du personnage. Permet d'ajouter un de c
 PointsDeVictoire <n> : Donne n points de victoire au joueur à la fin de la partie.
 PointsDeVictoire relatifs à des conditions : Le calcul des points gagnés est fait à la fin de la partie.
 
-Catégorie d'armes : 
 
-Certaines armes sont liées entre elles de par leur catégorie, avec un maximum d'une arme par acte de chaque catégorie.
-Jouer une arme d'une catégorie permet de bénéficier, dans l'ordre son choix, de toutes les armes déjà jouées de cette catégorie.
+Fin d'une phase :
+À la fin d'une phase les joueurs peuvent acheter des potions de vie & mana sur la base de 1 pour 1, en attendant d'avoir des objets à acheter.
 
 De base, on peut à tout instant acheter une potion de mana (2pièces -> 1mana) ou de vie (2pièces -> 1vie).
 

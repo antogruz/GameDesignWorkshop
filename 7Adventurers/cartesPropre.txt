@@ -28,7 +28,7 @@ Sur un ennemi avec 1 d'attaque, 1 dégat vaut 1 point.
 Acte I)
 
 ----------------
-##### Marteau <4> #####
+##### Marteau <4 + Force> #####
 Meilleur cas
 - Seule : 3 - 0,5 = 2,5
 - Force + 1 : 4,5 - 1 = 3.5
@@ -38,7 +38,7 @@ Statistiques
 - Force + 1 : 3.24
 - Defense + 1 : 3.08
 
-##### Double Dague <2> <2> #####
+##### Double Dague <2 + Force> <2 + Force> #####
 Meilleur cas
 - Seule :
 	*Diablotin 2x : 4,5 - 2 = 2,5
@@ -52,6 +52,8 @@ Statistiques
 - Seule : 2,46
 - Force + 1 : 4,41
 - Defense + 1 : 3,46
+
+##### Rondache <3 + 2*Def> #####
 
 ##### Shurikens *(1) #####
 Meilleur cas
@@ -72,9 +74,29 @@ Statistiques
 - Seul : 2.4
 - Force + 1 : 3.4
 
-##### 1m - Enchevêtrement (3) (Terre) #####
+##### 1m - Enchevêtrement (3) *(Terre) #####
+##### 1m - Compagnon Animal (1+Terre)-3 #####
+##### Terre | 3m - \_/
 
-##### 1m - Epee de glace <4 + eau> #####
+##### 1m - Epee de glace <4 + eau + force> \_eau + def_/ #####
+##### Eau | 3m - Source de mana - réduit de 1 le coût des sorts
+##### 1m - Rivière de diamants (5+2*eau)gold
+
 
 ##### 2m - Flamme - (4+Feu) #####
+##### 3m - Etincelles - (2 + Feu) (1 + Feu)sablier #####
+##### Feu | 3m - Ping - (Feu) | 1m r> (1)
 
+##### 1g - Combattant 2-2 #####
+#####    - Frondeur 1-1 : 2 pièces r> 1 dégat #####
+##### 3g - Soldat 3-3 #####
+
+##### Gemme d'eau #####
+##### Gemme de feu #####
+##### Gemme de terre #####
+
+Bilan : Force + 1 : 5 dégats
+		Defense + 1 : 1 dégat + 6 PV + confrontation
+		Terre + 1 : 3m, 1-3 dégats, 1Attaque sur un monstre(~2dégats ?)
+		Eau + 1 : 3m, 1 dégat, 1PV, 2g
+		Feu + 1 : 3m, 4 dégats
