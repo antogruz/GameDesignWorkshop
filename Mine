@@ -1,0 +1,88 @@
+À brainstormer :
+ - Explorer doit-il laisser un choix au joueur seul ? (Doit-il choisir parmi plusieurs cartes ?)
+ - Comment faire en sorte que les joueurs ne puissent pas se renforcer à l'infini, sans donner l'impression d'une limite de temps arbitraire ? D'habitude, la limite de temps fait soit gagner soit perdre dans un jeu coopératif...
+
+Write a Treatment
+Take the description you wrote in 6.7 and expand it into a 3-5 pages treatment for your game idea. Ask yourself questions about the format and dramatic elements as you write. Remember that this is just a draft. When you go on to the prototyping stage, you will address these questions again in more detail.
+
+Questions à se poser sur les formals elements (Joueurs, Objectifs, Procédures, Règles, Ressources, Conflit, Limites, Outcome)
+Quels sont les conflits dans mon jeu ?
+Quelles sont les règles et les procédures ?
+Quelles sont les actions que les joueurs font, et quand les font-ils ?
+Y a-t-il des tours ? Comment fonctionnent-ils ?
+Combien de joueurs peuvent jouer ?
+Combien de temps met le jeu à se finir ?
+Quel est le titre du jeu ?
+Qui est l'audience ciblée ?
+Sur quelle plateforme tournera le jeu ?
+Quelles restrictions ou opportunités offre l'environnement/plateforme ?
+
+Pour la structure du jeu :
+Définir le but de chaque joueur.
+Qu'à besoin de faire un joueur pour gagner ?
+Écrire le type d'action le plus important du jeu
+Décrire les procédures et les règles dans les grandes lignes. (en se focalisant seulement sur les plus critiques et en abandonnant les autres)
+Décrire comment un tour classique fonctionne. Utiliser un schéma algorithmique par exemple.
+Définir combien de joueurs peuvent jouer.
+Comment ces joueurs interagissent-ils ?
+
+#############################################
+
+ - Quels sont les conflits dans mon jeu ?
+Les joueurs doivent à la fois avancer dans leur quete et survivre, donc trouver un juste milieu entre le rush et la construction. Les joueurs doivent se coordonner mais ne peuvent se concerter calmement qu'à certains instants de la partie (tous les 5-7 tours par exemple). Lorsqu'ils sont séparés, ils doivent prendre des décisions importantes seuls en suivant les consignes générales qu'ils ont fixées ensemble.
+
+ - Quelles sont les règles et les procédures ?
+Les joueurs incarnent des personnages qui vont ensemble essayer d'atteindre l'objectif de l'expédition (trouver une relique, un lieu, etc), tout en étant assaillis par les menaces d'un environnement bien souvent hostile (faim, ennemis, climat ?, maladie).
+
+Au début de la partie, les joueurs ont un camp qui contient des rations de survie, ainsi que des zones explorables autour du camp. Les zones explorables sont des decks de cartes spécifiques, présents autour du plateau.
+
+Lors d'un tour, tous les joueurs jouent en simultané et ne peuvent pas communiquer. Ils ont la durée d'un sablier pour effectuer leur tour, qui consiste en général en prendre une décision, sans en résoudre immédiatement les effets. Pour cela, le joueur ajoute une carte à sa «pile de semaine». Selon l'action qu'il a effectué, la carte proviendra d'un packet exploration, des constructions disponibles, des lieux déjà découverts, des actions de base du joueur, etc.
+
+Tous les 7 tours, les joueurs peuvent à nouveau communiquer pendant la phase de résolution et de planification. Puis, on recommence.
+
+Dans la phase de résolution, pour chaque jour, tous les joueurs en commencant par le leader resolvent leur action. Ils mettent à jour leurs provisions et leur moral en fonction de ce qu'ils ont fait.
+Ensuite, on met à jour le compteur de temps et on applique les effets de fin de semaine.
+
+Les effets de fin de semaine englobent toutes les choses qui évoluent indépendamment des actions des personnages. De base, il y a les récoltes, les reproductions d'animaux, et les menaces. D'autres éléments de jeu ajoutent des effets de fin de semaine.
+
+ - Quelles sont les actions que les joueurs font, et quand les font-ils ?
+
+Les actions des joueurs sont répertoriées en catégories :
+ - Se déplacer
+ Le joueur prend une carte de déplacement vers la zone qu'il souhaite, à une distance de 1. Sa résolution déplace son pion vers la zone en question. Un groupe de joueurs partant du meme endroit peut décider de partir en expédition ensemble. À partir de ce moment, et jusqu'à ce qu'ils se séparent, ils ont un deck d'actions commun et peuvent communiquer en se montrant des choses.
+ - Explorer une zone
+ L'expédition tire une carte par membre dans le paquet de Zone et en choisit une seule qu'elle ajoute à sa pile de la semaine.
+ - Travailler au camp
+ Le joueur choisit une action disponible au camp et ajoute la carte correspondante à sa pile de semaine. Certaines actions du camp sont disponibles à l'infini. Les joueurs possèdent également des cartes personnelles d'action. Parmi ces actions il y a :
+       * Participer à un projet de construction
+       * Construire un outil/aménagement-mineur découvert (simplement mettre la carte outil dans sa pile de semaine)
+       * Faire des actions agricoles (semer, récolter ?, construire des enclos)
+       * Utiliser un objet
+       * Utiliser une des actions spéciales de son personnage.
+
+ - Combien de joueurs peuvent jouer ?
+ Comme les décisions sont prises en temps limité et simultanément par les joueurs, le jeu devrait pouvoir se jouer jusqu'à 7-8 personnes, peut-etre meme plus en adaptant les règles pour les rendre plus intéressantes. Mais le jeu devrait aussi etre intéressant et équilibré à 3. La sensation de partie par contre sera bien différente, de la meme manière que des vacances à 8 ne ressemblent pas à des vacances à 3.
+
+ - Combien de temps met le jeu à se finir ?
+ C'est une bonne question. Selon la profondeur de l'objectif, le jeu peut etre plus ou moins long. Le principal problème survient si les joueurs peuvent «inverser» la courbe de stress ; s'ils peuvent faire en sorte que le temps qui passe leur soit bénéfique (par exemple s'ils produisent + de nourriture qu'ils n'en consomment sans aucune contre-partie). Il ne faut pas oublier que dans Agricola par exemple, le nombre de tours est compté. Si on veut laisser aux joueurs le
+ loisir de jouer une partie à long terme, il faut assurer qu'ils n'auront jamais intéret à «attendre» en restant dans leur camps pour se renforcer «à l'infini».
+
+ - Quel est le titre du jeu ?
+Une vie d'exploration.
+
+ - Qui est l'audience ciblée ?
+Des joueurs chevronnés qui aiment le fun, un peu la gestion, les équipes, la rejouabilité, le dynamisme. Exactement mon groupe.
+
+ - Sur quelle plateforme tournera le jeu ?
+Papier, cartes, plateau... un jeu de société !
+
+ - Quelles restrictions ou opportunités offre l'environnement/plateforme ?
+Ça demande une certaine logistique de faire fonctionner le système de 1action/1carte. Par contre pour un jeu dynamique ou le jeu en équipe est primordial, c'est très important d'etre présents physiquement ensemble.
+
+###
+ - Définir le but de chaque joueur.
+Tous les joueurs ont le meme but : découvrir un trésor caché. Cela passe par l'exploration de la zone et par le fait de remplir des objectifs intermediaires (Trouver une carte au trésor, un moyen de passer le garde, etc). Un des buts cachés du joueur est aussi de ne pas perdre. Pour cela il faut s'assurer de pouvoir se nourrir et éviter les dangers.
+
+ - Comment ces joueurs interagissent-ils ?
+Les joueurs intéragissent de par le partage de leurs ressources, les actions qu'ils peuvent faire en commun, leurs objectifs communs. Ils peuvent par exemple se répartir des taches pour résoudre un objectif commun. Ils peuvent également s'aider à accomplir la meme tache, ou prendre des décisions ensemble s'ils partent en expédition.
+
