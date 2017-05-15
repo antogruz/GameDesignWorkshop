@@ -7,6 +7,8 @@ Acte II: 1 sort de chaque type nécessite de connaître l'école de magie
 Acte III: 2 sorts de chaque type nécessitent de connaître l'école de magie
 
 Plus de cartes dont les effets changent en fonction de plusieurs catégories.
+IDEE IMPORTANTE
+### À la fin de chaque Age, on doit se sentir renforcé, plus à meme d'affronter de meilleurs ennemis. Dans le cas contraire, c'est qu'on a marqué plein de points ou pris une avance dans un long travail (le boss).
 
 
 Valeurs d'un ennemi:
