@@ -1,0 +1,127 @@
+Les joueurs jouent contre la nature. La partie survie doit y etre bien exploitée, ainsi que l'exploration.
+
+La foret
+La jungle
+Les ruines antiques
+La plage
+La mer
+Les méchants
+
+- La jungle :
+
+On y trouve de la nourriture, des plantes, des animaux (gentils ou méchants).
+
+Aller explorer la jungle, c'est choisir de répartir ses dés entre des packages.
+Au début du jeu, on prépare 2 animaux / joueur ; 1 plante / joueur.
+
+J * n -> PN * (n - 1)
+RR -> Découvrez un nouvel animal
+VVB -> Découvrez une nouvelle plante et 1PN
+RVB -> 2 céréales
+Chassez un animal visible en réussissant sa combinaison
+
+Exemples d'animaux :
+
+Antilopes : JJVB -> Gagnez 3 PN et placez un marqueur sur la carte.
+À trois marqueurs, défaussez la carte.
+
+Sanglier : JVV -> Gagnez 3 PN et perdez 1 PV
+           JVVR -> Gagnez 3PN
+           Défaussez la carte dans les 2 cas
+
+Lion : RRRRRR -> Gagnez 4EXP. Défaussez la carte.
+Tant que cette carte est visible, Toutes les expéditions dans la jungle peuvent défausser 2 dés rouges. Chaque dé non défaussé fait perdre 1PV.
+
+Ararcenciel : VBJR + X -> Gagnez 1PH et 1PR, Défaussez la carte
+
+Papillon d'or       : BBBBBVV -> Gagnez 3PR, Défaussez la carte
+Papillon de lumière : VVVVVBB -> Gagnez 3PH, Défaussez la carte
+
+
+
+- La foret
+
+JVRB -> Explorez une nouvelle zone : Jetez 10 dés et placez 1PN par J, 1Ressource par dé de sa couleur, et 1 au choix pour chaque \/
+J -> Ramassez 1PN
+V / B / R -> Ramassez 1 matériau de la couleur.
+
+
+- Les ruines antiques
+
+Chasser les gardes
+not |R| : JRR -> placez |R|, gagnez 1PEX
+
+Trouver le chemin
+not |G| : JGG -> placez |G|, gagnez 1PH
+
+Trouver des objets de valeur
+not |B| : JBB -> placez |B|, gagnez 1PR
+
+Trouver le trésor
+|B||R||G| : JJJJBRG -> Gagnez le trésor : 3PR ! Défaussez les ruines.
+
+
+- La plage
+Au début, placez 1PH par joueur.
+
+VV / BB / RR -> Trouvez un matériau de la couleur.
+Construire un radeau : Coût 2 brut. Placez un marqueur |B| sur le lieu Mer.
+
+- La mer
+Pour y partir en expédition, il faut prendre un jeton radeau disponible. On le remet en revenant.
+Peche  |B| : J -> 1PN, JRVB -> 5PN, BB -> Ramassez un PH.
+
+
+- Les méchants
+Ce sont les loups. Règles classiques.
+
+
+// Plantes // 
+   * Plante de vie
+   | Planter : placez un PN sur les cases 4, 6, 7, 9 ; 1PV sur 3, 5, 8 ; 1PH sur 10
+   | * * * -> Planter.
+   |
+   |
+
+   * Tomates
+   | Planter : placez un PN sur les cases 1, 2, 3, 4
+   | * -> Planter.
+   | Fin : Ne défaussez pas.
+
+   * Ronces
+   | Planter : placez un pion objectif sur les cases 3, 7
+   | * * -> Planter.
+   | Chaque fois qu'un objectif est rempli : jetez un dé de + en défense lors d'une attaque contre le camp.
+
+   * Branchiflore
+   | Planter : placez un pion branchie sur les cases 3, 7
+   | *
+   | Chaque pion branchie peut etre dépensé pour partir en expédition en mer sans radeau, mais les PH gagnés sont pris depuis la réserve (au lieu d'etre ramassés)
+  
+
+-- Constructions spécifiques --
+
+Broche |1| : Chaque chasse d'animal réussie rapporte 1PN
+
+
+-- Amènagements mineurs spécifiques --
+
+Arc et flèches : Chaque chasse d'animal coûte 1dé (au choix) de moins.
+
+-- Savoir-Faire --
+
+* Biologiste
+| En foret, lors d'une découverte, les \/ lancés placent des PH : un PH peut etre ramassé en utilisant un dé dont la ressource est épuisée.
+
+* Chasseur de très gros gibier
+| Vous pouvez dépenser, dans la meme expédition, deux fois les dés d'un animal visible, pour en récupérer deux fois le butin.
+
+* Pécheur de crabes
+| Vous pouvez faire les actions du lieu mer depuis la plage.
+
+* Explorateur insatiable
+| Vous pouvez décider d'ignorer l'instruction "poser un marqueur" de la carte ruine.
+
+* Cueilleur de champignons
+| Chaque fois que vous ramassez au moins une resource en foret, ramassez 1PN.
+

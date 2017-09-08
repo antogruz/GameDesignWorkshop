@@ -1,0 +1,23 @@
+Personnages :
+
+ * Le débrouillard
+ | Une fois par semaine, peut transformer un dé \/ en n'importe quel dé.
+ | Tout se passe comme si c'était le résultat du lancer.
+ | -Over : 3 -> Remplacez n'importe quel dé par une face au choix
+
+ * Le Caméléon  
+ | Chaque semaine, choisit une couleur. À la fin de la semaine, tous les dés \/ devant lui sont transformés en dé de cette couleur.
+ | -Over : 2 -> Ajoute un symbole Couleur au lancer
+
+ * Le Ranger
+ | À partir du moment ou il a obtenu deux \/ dans une expédition, il jette 1dé supplémentaire chaque jour.
+ | -Over : 2 -> Jetez un dé supplémentaire.
+
+ * Donkey Kong
+ | 7PV (À la fin, il ne gagne que 5PEX maxi)
+ | Il commence avec la plante Bananier plantée. Tant qu'il s'en occupe (il est le seul a pouvoir le faire), il n'a pas besoin de se nourrir. Après un échec, le bananier meurt.
+ | -Over : 2 -> Ajoutez un symbole R à votre lancer
+
+ * Miss Fortune
+ | Tous les 2\/ obtenus, place un marqueur sur ce pouvoir. À la fin de la partie, chaque PR obtenus par Miss fortune rapporte 1 de plus (de base ca rapporte 5)
+ | -Over : 3 -> place un marqueur sur le pouvoir

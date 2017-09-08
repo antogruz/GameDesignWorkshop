@@ -1,0 +1,11 @@
+Générique :
+
+ * Jardinier :
+ | Peut s'occuper d'une plante un jour plus tot
+
+
+ * Cuisinier :
+ | Peut convertir 2 resources consommables en une action
+
+ * Batisseur :
+ | 
