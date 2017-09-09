@@ -19,5 +19,5 @@ Personnages :
  | -Over : 2 -> Ajoutez un symbole R à votre lancer
 
  * Miss Fortune
- | Tous les 2\/ obtenus, place un marqueur sur ce pouvoir. À la fin de la partie, chaque PR obtenus par Miss fortune rapporte 1 de plus (de base ca rapporte 5)
+ | Tous les 2\/ obtenus, place un marqueur sur ce pouvoir. À la fin de la partie, chaque PR obtenu par Miss fortune rapporte 1 de plus (de base ca rapporte 5)
  | -Over : 3 -> place un marqueur sur le pouvoir

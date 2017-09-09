@@ -19,24 +19,24 @@ RR -> Découvrez un nouvel animal
 VVB -> Découvrez une nouvelle plante et 1PN
 RVB -> 2 céréales
 Chassez un animal visible en réussissant sa combinaison
+En plus de son prix, chaque animal chassé rapporte 1EXP
 
 Exemples d'animaux :
 
-Antilopes : JJVB -> Gagnez 3 PN et placez un marqueur sur la carte.
+Antilopes : JJVB -> Gagnez 2 PN et placez un marqueur sur la carte.
 À trois marqueurs, défaussez la carte.
 
-Sanglier : JVV -> Gagnez 3 PN et perdez 1 PV
+Sanglier : JVV -> Gagnez 3PN et perdez 1 PV
            JVVR -> Gagnez 3PN
            Défaussez la carte dans les 2 cas
 
-Lion : RRRRRR -> Gagnez 4EXP. Défaussez la carte.
-Tant que cette carte est visible, Toutes les expéditions dans la jungle peuvent défausser 2 dés rouges. Chaque dé non défaussé fait perdre 1PV.
+Lion : RRRRRR -> Gagnez 8EXP. Défaussez la carte.
+Tant que cette carte est visible, toutes les expéditions dans la jungle peuvent défausser 2 dés rouges. Chaque dé non défaussé fait perdre 1PV.
 
-Ararcenciel : VBJR + X -> Gagnez 1PH et 1PR, Défaussez la carte
+Ararcenciel : VBJR -> Gagnez 1PH et 1PR, Défaussez la carte
 
 Papillon d'or       : BBBBBVV -> Gagnez 3PR, Défaussez la carte
 Papillon de lumière : VVVVVBB -> Gagnez 3PH, Défaussez la carte
-
 
 
 - La foret
@@ -58,16 +58,16 @@ Trouver des objets de valeur
 not |B| : JBB -> placez |B|, gagnez 1PR
 
 Trouver le trésor
-|B||R||G| : JJJJBRG -> Gagnez le trésor : 3PR ! Défaussez les ruines.
+|B||R||G| : JJJJBRG -> Gagnez le trésor : 5PR ! Défaussez les ruines.
 
 
 - La plage
-Au début, placez 1PH par joueur.
 
 VV / BB / RR -> Trouvez un matériau de la couleur.
 Construire un radeau : Coût 2 brut. Placez un marqueur |B| sur le lieu Mer.
 
 - La mer
+Au début, placez 2PH par joueur.
 Pour y partir en expédition, il faut prendre un jeton radeau disponible. On le remet en revenant.
 Peche  |B| : J -> 1PN, JRVB -> 5PN, BB -> Ramassez un PH.
 
@@ -78,7 +78,7 @@ Ce sont les loups. Règles classiques.
 
 // Plantes // 
    * Plante de vie
-   | Planter : placez un PN sur les cases 4, 6, 7, 9 ; 1PV sur 3, 5, 8 ; 1PH sur 10
+   | Planter : placez un PN sur les cases 4, 6, 7, 9 ; 1PV sur 3, 5, 8 ; 1PH sur 10, 11, 12
    | * * * -> Planter.
    |
    |
@@ -101,8 +101,9 @@ Ce sont les loups. Règles classiques.
 
 -- Constructions spécifiques --
 
-Broche |1| : Chaque chasse d'animal réussie rapporte 1PN
+Broche |1| : Chaque animal éliminé (loups compris) rapporte 1PN
 
+Autel du combattant |2| : Chaque ennemi éliminé rapporte 1PEX (une fois construit)
 
 -- Amènagements mineurs spécifiques --
 
