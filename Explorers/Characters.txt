@@ -5,7 +5,7 @@ Personnages :
  | Tout se passe comme si c'était le résultat du lancer.
  | -Over : 3 -> Remplacez n'importe quel dé par une face au choix
 
- * Le Caméléon  
+ * Le Caméléon
  | Chaque semaine, choisit une couleur. À la fin de la semaine, tous les dés \/ devant lui sont transformés en dé de cette couleur.
  | -Over : 2 -> Ajoute un symbole Couleur au lancer
 
